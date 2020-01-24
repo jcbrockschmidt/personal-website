@@ -10,6 +10,7 @@ weight = 90  # Order that this section will appear.
 title = "Recent Publications"
 subtitle = ""
 
+# TODO
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
@@ -65,7 +66,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}

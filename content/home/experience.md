@@ -18,27 +18,66 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Assistant"
+  company = "Personal Robotics Lab"
+  company_url = "https://personalrobotics.cs.washington.edu/"
+  location = "Seattle, WA"
+  date_start = "2019-02-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+   * Used CV/ML for the segmentation of food for assistive feeding
+   * Investigated curiosity as an intrinsic motivator for RL
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "REU@Temple"
+  company_url = "http://odin.cis.temple.edu/~reu/"
+  location = "Philadelphia, PA"
+  date_start = "2019-06-01"
+  date_end = "2019-08-01"
+  description = """
+   * Explored the practicality of facial forgery detection
+   * Presented work at NeurIPS 2019 and IEEE MASS 2019
+  """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Autonomous Flight Systems Laboratory"
+  company_url = "https://www.aa.washington.edu/research/afsl/"
+  location = "Seattle, WA"
+  date_start = "2017-09-01"
+  date_end = "2019-01-01"
+  description = """
+   * Project manager for data management application with 7 developers
+   * Designed data collection system for LiDAR unit
+  """
+
+[[experience]]
+  title = "Instructor"
+  company = "iD Tech"
+  company_url = "https://www.idtech.com/"
+  location = "Seattle, WA"
+  date_start = "2018-06-01"
+  date_end = "2018-08-01"
+  description = " * Taught machine learning to kids age 12 to 17"
+
+[[experience]]
+  title = "Mentor"
+  company = "Tacoma Public Library"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Tacoma, WA"
+  date_start = "2015-06-01"
+  date_end = "2016-09-01"
+  description = " * Taught programming to kids age 7 to 17"
+
+[[experience]]
+  title = "Supplemental Instructor"
+  company = "Green River College"
+  company_url = "https://www.greenriver.edu/"
+  location = "Auburn, WA"
+  date_start = "2015-06-01"
+  date_end = "2016-09-01"
+  description = " * Tutored college students in mathematics"
 
 +++
